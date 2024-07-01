@@ -53,3 +53,5 @@ function rectangleRotation(a, b) {
 
   return count;
 }
+
+rectangleRotation(6, 4);
